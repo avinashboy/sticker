@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<users>
+   <user id="101">
+      <author>Gambardella, Matthew</author>
+      <des>XML Developer's Guide</des>
+      <genre>Computer</genre>
+      <price>44.95</price>
+      <join_date>2000-10-01</join_date>
+      <description>An in-depth look at creating applications 
+      with XML.</description>
+   </user>
+   <user id="102">
+      <author>Ralls, Kim</author>
+      <des>Midnight Rain</des>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <join_date>2000-12-16</join_date>
+      <description>A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</description>
+   </user>
+   <user id="103">
+      <author>Corets, Eva</author>
+      <des>Maeve Ascendant</des>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <join_date>2000-11-17</join_date>
+      <description>After the collapse of a nanotechnology 
+      society in England, the young survivors lay the 
+      foundation for a new society.</description>
+   </user>
+   <user id="104">
+      <author>Corets, Eva</author>
+      <des>Oberon's Legacy</des>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <join_date>2001-03-10</join_date>
+      <description>In post-apocalypse England, the mysterious 
+      agent known only as Oberon helps to create a new life 
+      for the inhabitants of London. Sequel to Maeve 
+      Ascendant.</description>
+   </user>
+   <user id="105">
+      <author>Corets, Eva</author>
+      <des>The Sundered Grail</des>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <join_date>2001-09-10</join_date>
+      <description>The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.</description>
+   </user>
+   <user id="106">
+      <author>Randall, Cynthia</author>
+      <des>Lover Birds</des>
+      <genre>Romance</genre>
+      <price>4.95</price>
+      <join_date>2000-09-02</join_date>
+      <description>When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.</description>
+   </user>
+   <user id="107">
+      <author>Thurman, Paula</author>
+      <des>Splish Splash</des>
+      <genre>Romance</genre>
+      <price>4.95</price>
+      <join_date>2000-11-02</join_date>
+      <description>A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.</description>
+   </user>
+   <user id="108">
+      <author>Knorr, Stefan</author>
+      <des>Creepy Crawlies</des>
+      <genre>Horror</genre>
+      <price>4.95</price>
+      <join_date>2000-12-06</join_date>
+      <description>An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.</description>
+   </user>
+   <user id="109">
+      <author>Kress, Peter</author>
+      <des>Paradox Lost</des>
+      <genre>Science Fiction</genre>
+      <price>6.95</price>
+      <join_date>2000-11-02</join_date>
+      <description>After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.</description>
+   </user>
+   <user id="110">
+      <author>O'Brien, Tim</author>
+      <des>Microsoft .NET: The Programming Bible</des>
+      <genre>Computer</genre>
+      <price>36.95</price>
+      <join_date>2000-12-09</join_date>
+      <description>Microsoft's .NET initiative is explored in 
+      detail in this deep programmer's reference.</description>
+   </user>
+   <user id="111">
+      <author>O'Brien, Tim</author>
+      <des>MSXML3: A Comprehensive Guide</des>
+      <genre>Computer</genre>
+      <price>36.95</price>
+      <join_date>2000-12-01</join_date>
+      <description>The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.</description>
+   </user>
+   <user id="112">
+      <author>Galos, Mike</author>
+      <des>Visual Studio 7: A Comprehensive Guide</des>
+      <genre>Computer</genre>
+      <price>49.95</price>
+      <join_date>2001-04-16</join_date>
+      <description>Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.</description>
+   </user>
+</users>
